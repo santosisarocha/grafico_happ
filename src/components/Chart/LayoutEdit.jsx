@@ -210,7 +210,7 @@ function LayoutGraphicEdit() {
                <img
                  src={Panela}
                  alt="Panela"
-                 style={{ width: '20%', height: 'auto', marginRight: '10px' }}
+                 style={{ width: '20%', height: 'auto', marginRight: '10%' }}
                />
                <h1   >Moda da casa</h1>
              </div>
@@ -218,7 +218,7 @@ function LayoutGraphicEdit() {
                <img
                  src={Folha}
                  alt="Folha"
-                 style={{ width: '15%', height: 'auto', marginRight: '10px' }}
+                 style={{ width: '15%', height: 'auto', marginRight: '10%' }}
                />
                <h1 >De bem com a vida</h1>
              </div>
@@ -226,7 +226,7 @@ function LayoutGraphicEdit() {
                <img
                  src={chefe}
                  alt="chefe"
-                 style={{ width: '10%', height: 'auto', marginRight: '10px' }}
+                 style={{ width: '10%', height: 'auto', marginRight: '10%' }}
                />
                <h1>Receita do chefe</h1>
              </div>
@@ -234,7 +234,7 @@ function LayoutGraphicEdit() {
                <img
                  src={Grill}
                  alt="grill"
-                 style={{ width: '12%', height: 'auto', marginRight: '10px' }}
+                 style={{ width: '12%', height: 'auto', marginRight: '10%' }}
                />
                <h1>Grill e Bem estar</h1>
              </div>
@@ -263,16 +263,16 @@ const popupStyle = {
   left: '50%',
   transform: 'translate(-50%, -50%)',
   backgroundColor: 'white',
-  height:'27%',
-  width:'57%',
-  padding: '70px',
+  height:'40vh',
+  width:'120vh',
+  padding: '5vh',
   boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)',
   
 };
 const popupHeadingStyle = {
   fontSize: '19.65px',
   color: '#333',
-  marginTop:'-3.5%',
+  marginTop:'1%',
   textAlign: 'center',
   marginBottom: '20px',
   fontWeight: 'bold',
